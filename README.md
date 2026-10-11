@@ -2,9 +2,9 @@
 
 This project contains scripts and configuration files to install and configure Neovim for web development.
 
-## Pre-requisites
+## Prerequisites
 
-This project installs all pre-requisites automatically (superuser credentials necessary).
+This project installs all prerequisites automatically (superuser credentials necessary).
 
 ## Instructions
 
